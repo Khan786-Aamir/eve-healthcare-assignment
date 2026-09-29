@@ -1,0 +1,16 @@
+export const BOOKING_STATUS = {
+  PENDING: "PENDING",
+  CONFIRMED: "CONFIRMED",
+  FAILED: "FAILED",
+  CANCELLED: "CANCELLED"
+};
+
+export const PAYMENT_STATUS = {
+  SUCCESS: "SUCCESS",
+  FAILED: "FAILED"
+};
+
+export const USER_ROLES = {
+  USER: "USER",
+  ADMIN: "ADMIN"
+};
